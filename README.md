@@ -4,10 +4,6 @@ A Python-based **Design and Analysis of Algorithms (DAA) Capstone Project** that
 
 The project simulates a courier delivery system where parcels are prioritized, loading capacity is optimized, and efficient delivery routes are calculated.
 
-## 🔗 GitHub Repository
-
-[DAA-Capstone-mini-courier-planner](https://github.com/khushisingh91999-png/DAA-Capstone-mini-courier-planner)
-
 ## 📌 Project Overview
 
 Mini-Courier Planner is designed to solve common courier management problems using fundamental algorithms.
@@ -132,62 +128,6 @@ DAA-Capstone-mini-courier-planner/
 └── requirements.txt
 ```
 
-## ⚙️ Installation and Setup
-
-### Step 1: Clone the Repository
-
-```bash
-git clone https://github.com/khushisingh91999-png/DAA-Capstone-mini-courier-planner.git
-```
-
-### Step 2: Open the Project Folder
-
-```bash
-cd DAA-Capstone-mini-courier-planner
-```
-
-### Step 3: Create a Virtual Environment
-
-```bash
-python -m venv venv
-```
-
-### Step 4: Activate the Virtual Environment
-
-For Windows PowerShell:
-
-```bash
-venv\Scripts\Activate
-```
-
-### Step 5: Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Step 6: Run the Project
-
-```bash
-python main.py
-```
-
-## ▶️ How to Use
-
-After running `main.py`, an interactive menu will appear.
-
-| Option | Function |
-|---|---|
-| 1 | Display All Parcels |
-| 2 | Sort Parcels using Merge Sort |
-| 3 | Sort Parcels using Quick Sort |
-| 4 | Optimize Parcel Loading (Knapsack) |
-| 5 | Find Shortest Delivery Routes (Dijkstra) |
-| 6 | Find Optimal Delivery Tour (TSP) |
-| 7 | View Performance Analysis |
-| 8 | Exit |
-
-Enter the corresponding number to execute an operation.
 
 ## 📊 Sample Results
 
