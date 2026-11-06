@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": "P1",
+    "destination": "Delhi",
+    "weight": 2,
+    "deadline": 2,
+    "priority": 3,
+    "value": 100
+  },
+  {
+    "id": "P2",
+    "destination": "Gurgaon",
+    "weight": 4,
+    "deadline": 1,
+    "priority": 1,
+    "value": 200
+  },
+  {
+    "id": "P3",
+    "destination": "Noida",
+    "weight": 3,
+    "deadline": 3,
+    "priority": 2,
+    "value": 150
+  },
+  {
+    "id": "P4",
+    "destination": "Faridabad",
+    "weight": 2,
+    "deadline": 1,
+    "priority": 1,
+    "value": 180
+  },
+  {
+    "id": "P5",
+    "destination": "Sohna",
+    "weight": 5,
+    "deadline": 4,
+    "priority": 3,
+    "value": 120
+  }
+]

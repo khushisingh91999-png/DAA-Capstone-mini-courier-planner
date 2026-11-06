@@ -1,0 +1,5 @@
+Algorithm,Execution Time (ms)
+Sorting (Merge Sort + Quick Sort),143.4381
+0/1 Knapsack,142.0084
+Dijkstra,185.4385
+TSP,156.3588

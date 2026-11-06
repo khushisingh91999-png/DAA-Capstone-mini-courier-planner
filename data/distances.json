@@ -1,0 +1,9 @@
+
+[
+  {"from": "Delhi", "to": "Gurgaon", "distance": 30},
+  {"from": "Delhi", "to": "Noida", "distance": 25},
+  {"from": "Gurgaon", "to": "Faridabad", "distance": 35},
+  {"from": "Gurgaon", "to": "Sohna", "distance": 40},
+  {"from": "Noida", "to": "Faridabad", "distance": 45},
+  {"from": "Faridabad", "to": "Sohna", "distance": 20}
+]
